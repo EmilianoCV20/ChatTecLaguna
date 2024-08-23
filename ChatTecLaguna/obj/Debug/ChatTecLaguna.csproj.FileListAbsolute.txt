@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ChatTecLaguna\ChatTecLaguna\bin\Debug\ChatTecLaguna.exe.config
+C:\Users\Admin\source\repos\ChatTecLaguna\ChatTecLaguna\bin\Debug\ChatTecLaguna.exe
+C:\Users\Admin\source\repos\ChatTecLaguna\ChatTecLaguna\bin\Debug\ChatTecLaguna.pdb
+C:\Users\Admin\source\repos\ChatTecLaguna\ChatTecLaguna\bin\Debug\M2Mqtt.dll
+C:\Users\Admin\source\repos\ChatTecLaguna\ChatTecLaguna\obj\Debug\ChatTecLaguna.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ChatTecLaguna\ChatTecLaguna\obj\Debug\ChatTecLaguna.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\ChatTecLaguna\ChatTecLaguna\obj\Debug\ChatTecLaguna.Form1.resources
+C:\Users\Admin\source\repos\ChatTecLaguna\ChatTecLaguna\obj\Debug\ChatTecLaguna.Properties.Resources.resources
+C:\Users\Admin\source\repos\ChatTecLaguna\ChatTecLaguna\obj\Debug\ChatTecLaguna.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ChatTecLaguna\ChatTecLaguna\obj\Debug\ChatTecLaguna.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ChatTecLaguna\ChatTecLaguna\obj\Debug\ChatTecLaguna.csproj.CopyComplete
+C:\Users\Admin\source\repos\ChatTecLaguna\ChatTecLaguna\obj\Debug\ChatTecLaguna.exe
+C:\Users\Admin\source\repos\ChatTecLaguna\ChatTecLaguna\obj\Debug\ChatTecLaguna.pdb
